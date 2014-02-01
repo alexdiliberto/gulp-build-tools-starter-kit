@@ -1,4 +1,4 @@
 gulp-build-tools-starter-kit
 ============================
 
-gulp
+This is my **favorite** build tools starter kit using [Gulp](http://gulpjs.com/)
